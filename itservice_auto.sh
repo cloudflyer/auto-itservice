@@ -1,4 +1,10 @@
 #!/bin/bash
+## DESCRIPTION: Automatically keeping your itservice database
+##              up to date using the Administration Console
+## AUTHOR: Thomas Jällbrink
+## CREATION DATE: 05/27/14
+##
+
 TQPATH=/opt/teamquest
 ITSARDB=data/itservice
 FILE=/tmp/nodelist.txt
